@@ -4,6 +4,5 @@ data:
   key2: config2
 kind: ConfigMap
 metadata:
-  creationTimestamp: null
   name: bro
-  namespace: bro
+  namespace: dood
